@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/pay"
+    android:title="WALLET"
+    android:icon="@drawable/ic_account_balance_wallet_24px"/>
+    <item
+        android:id="@+id/QR"
+        android:title="QR"
+        android:icon="@drawable/ic_scan"/>
+    <item
+        android:id="@+id/stat"
+        android:title="TRANSACTION"
+        android:icon="@drawable/ic_poll_black_24dp"/>
+</menu>
